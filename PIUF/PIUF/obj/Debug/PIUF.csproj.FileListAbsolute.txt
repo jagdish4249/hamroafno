@@ -1,0 +1,18 @@
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\bin\Debug\PIUF.exe.config
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\bin\Debug\PIUF.exe
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\bin\Debug\PIUF.pdb
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\obj\Debug\PIUF.csprojResolveAssemblyReference.cache
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\obj\Debug\PIUF.Properties.Resources.resources
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\obj\Debug\PIUF.csproj.GenerateResource.Cache
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\obj\Debug\PIUF.exe
+c:\users\jagdish duwal\documents\visual studio 2015\Projects\PIUF\PIUF\obj\Debug\PIUF.pdb
+D:\8th project reference\PIUF\PIUF\bin\Debug\PIUF.exe.config
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.exe
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.pdb
+D:\8th project reference\PIUF\PIUF\bin\Debug\PIUF.exe
+D:\8th project reference\PIUF\PIUF\bin\Debug\PIUF.pdb
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.csprojResolveAssemblyReference.cache
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.Form1.resources
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.Properties.Resources.resources
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.csproj.GenerateResource.Cache
+D:\8th project reference\PIUF\PIUF\obj\Debug\PIUF.AddForm.resources
